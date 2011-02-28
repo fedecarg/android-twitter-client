@@ -2,8 +2,8 @@ package com.fedecarg.twitterclient;
 
 public class Constants {
 
-	public static final String CONSUMER_KEY = "";
-	public static final String CONSUMER_SECRET = "";
+	public static final String CONSUMER_KEY = "text";
+	public static final String CONSUMER_SECRET = "text";
 
 	public static final String REQUEST_URL = "http://api.twitter.com/oauth/request_token";
 	public static final String ACCESS_URL = "http://api.twitter.com/oauth/access_token";
